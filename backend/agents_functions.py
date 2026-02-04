@@ -206,11 +206,11 @@ def getAgentConfig(reasoning = False, vision=False):
 
 async def select_images():
     goal = """
-            Open inshot app and select all the images from the A images folder and go the video editor screen and your job is done.
+            Open inshot app and select all the images from the droidrun folder and go the video editor screen and your job is done.
             After opening the inshot app select the video icon (looks like a film) in the left center
             then click on new 
-            then in the bottom left where it is written recents you will find a folder dropdown scroll through it to find the A images folder
-            Note this instruction while finding the A images folder if u dont see it directly 
+            then in the bottom left where it is written recents you will find a folder dropdown scroll through it to find the droidrun folder
+            Note this instruction while finding the droidrun folder if u dont see it directly 
             - **CRITICAL: Finding the Folder**
             - The folder list is sensitive.
             - To scroll down, use **TINY SWIPES**.

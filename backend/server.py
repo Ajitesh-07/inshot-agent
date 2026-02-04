@@ -525,12 +525,12 @@ class ExecutionSession:
                     await self.send_message("uploading_images", progress=prog, message=msg)
             
             # Run process_files in executor (it's synchronous)
-            # def sync_process_files():
-            #     def status_callback(msg, prog, is_error=False, is_success=False, current_image=None):
-            #         print(f"Upload: {msg} ({prog}%)")
-            #     process_files(self.image_paths, status_callback)
+            def sync_process_files():
+                def status_callback(msg, prog, is_error=False, is_success=False, current_image=None):
+                    print(f"Upload: {msg} ({prog}%)")
+                process_files(self.image_paths, status_callback)
             
-            # await loop.run_in_executor(None, sync_process_files)
+            await loop.run_in_executor(None, sync_process_files)
             await self.send_message("uploading_images", progress=100, message="Images uploaded!")
             
             # Step 3: Upload audio to phone (if available)
