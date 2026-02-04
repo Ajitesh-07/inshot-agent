@@ -1,0 +1,13 @@
+{
+    "thought_process": "My primary goal is to find a track that matches the 'upbeat and modern electronic or phonk' style requested and, crucially, to sync a major musical event with the 'Shake' and 'Flash' effects on the third image. First, I analyzed the visual plan to create a timeline. The clips and transitions add up to an 8.0-second video. The key moment of impact is at the 3.0-second mark, where Image 3 appears with the 'Shake' and 'Flash' effects. The first 3 seconds build up to this, with a 'Slow Zoom' on Image 1 and a 'Glitch' on Image 2. After the 3.0s mark, the energy needs to remain high. I evaluated both audio tracks. Track 1 is a good phonk track but lacks a distinct, explosive drop that could be timed perfectly. Its energy is more of a consistent groove. Track 2, however, is ideal. It's an aggressive, high-energy phonk track with a clear buildup and a massive beat drop at exactly 0:17. By starting the video at the 14.0-second mark of this track, the buildup in the music (from 14.0s to 17.0s) perfectly complements the zoom and glitch effects of the first two images. Then, the powerful drop at 17.0s aligns perfectly with the 3.0-second mark of the video, creating a powerful, synchronized impact for the 'Shake' and 'Flash' effects, exactly as the director envisioned. The high-energy section following the drop maintains the momentum for the remainder of the video.",
+    "selected_track_filename": "audio_2.mp3",
+    "start_time_seconds": 14.0,
+    "end_time_seconds": 22.0,
+    "_usage": {
+        "prompt_tokens": 11807,
+        "candidates_tokens": 412,
+        "thinking_tokens": 2945,
+        "cached_tokens": 0,
+        "total_tokens": 15164
+    }
+}

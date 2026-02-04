@@ -1,0 +1,55 @@
+{
+    "IN": [
+        "Fade",
+        "Zoom In",
+        "Zoom Out",
+        "Shake In",
+        "Shake Out",
+        "Rise",
+        "Fall",
+        "Slide R",
+        "Slide L",
+        "Swing R",
+        "Swing L",
+        "Ripple",
+        "Distort",
+        "Bounce 01",
+        "Bounce 02",
+        "Arrange",
+        "Diagonal"
+    ],
+
+    "OUT": [
+        "Fade",
+        "Zoom In",
+        "Zoom Out",
+        "Slide R",
+        "Slide L",
+        "Slide D",
+        "Slide U",
+        "Swipe R",
+        "Swipe L",
+        "Swipe D",
+        "Swipe U",
+        "Ripple",
+        "Distort",
+        "Diagonal"
+    ],
+
+    "COMBO": [
+        "Fall Spin",
+        "Spin Fall",
+        "Sway Zoom",
+        "Zoom Sway",
+        "Swing L",
+        "Swing R",
+        "Fuzz 01",
+        "Fuzz 02",
+        "Whip In",
+        "Whip Out",
+        "Stripe In",
+        "Stripe Out",
+        "Trans L",
+        "Trans R"
+    ]
+}

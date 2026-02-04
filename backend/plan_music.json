@@ -1,0 +1,24 @@
+{
+    "thought_process": "The Visual Director has requested an upbeat, modern electronic or phonk track for an 8-second video featuring Elon Musk. The key directive is to sync a powerful beat drop or accent with the 'Shake' and 'Flash' effects on the third image. Based on the scaled durations of the clips, this key moment happens around the 3-second mark. The overall mood should be confident and energetic. I need to find tracks that have a quick, impactful build-up leading to a drop at or around the 3-second mark. Phonk is an excellent genre for this as it's characterized by aggressive bass, driving beats, and is structured around drops, making it perfect for short-form, high-impact edits.",
+    "tracks": [
+        {
+            "track_name": "METAMORPHOSIS",
+            "artist_name": "INTERWORLD",
+            "vibe": "Aggressive, Driving, Confident",
+            "reasoning": "This is a quintessential phonk track perfect for this style of edit. Its menacing build-up would fit perfectly over the first two images with the 'Slow Zoom' and 'Glitch' effects. The iconic, hard-hitting beat drop can be precisely timed to land at the 3-second mark, syncing perfectly with the 'Shake' and 'Flash' on the third, celebratory image of Musk, maximizing the impact as requested by the Visual Director. The track's confident and powerful energy directly matches the desired persona."
+        },
+        {
+            "track_name": "Murder In My Mind",
+            "artist_name": "Kordhell",
+            "vibe": "Dark, Energetic, Unstoppable",
+            "reasoning": "This track offers a slightly different flavor of phonk with a more melodic and atmospheric intro. This would create a great build-up over the first 3 seconds. The drop is incredibly powerful and clean, which would provide a satisfying punch when synced with the 'Shake' and 'Flash' effects. The song\u2019s relentless energy and confident feel are an excellent match for the visuals and the director's vision of a modern, driving electronic track."
+        }
+    ],
+    "_usage": {
+        "prompt_tokens": 2167,
+        "candidates_tokens": 478,
+        "thinking_tokens": 1782,
+        "cached_tokens": 0,
+        "total_tokens": 4427
+    }
+}
